@@ -10,4 +10,5 @@ Weakness:</br>
 Since this project is done during the short semester which is only 7 weeks, we had less than a month time to develop this project, so there is no complex game mechanic in this game.
 
 Here is the link to that project: https://drive.google.com/file/d/19zOrYPixvEQ6PWnLJX7sLMSu5fBxR7dK/view?usp=sharing </br>
+Video demo: https://drive.google.com/file/d/1h1PAObgZOtKgj3By8OXM5lBy1hE6J07W/view?usp=sharing </br>
 Enjoy and any suggestions are welcomed ;)
